@@ -42,7 +42,7 @@ image: "/images/mosquito-guide-cover.jpg"
 
 **適合對象：** 有小孩的家庭、孕婦、戶外活動愛好者
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_MOSQ_01)
+👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/1BHpcBOOTg)**](https://s.shopee.tw/REPLACE_LINK_MOSQ_01)
 
 ---
 
@@ -59,7 +59,7 @@ image: "/images/mosquito-guide-cover.jpg"
 
 **適合對象：** 有寵物或嬰兒的家庭、不想用藥劑的人、臥室長效使用
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_MOSQ_02)
+👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/6AgVZnt4sa)**](https://s.shopee.tw/REPLACE_LINK_MOSQ_02)
 
 ---
 
@@ -76,7 +76,7 @@ image: "/images/mosquito-guide-cover.jpg"
 
 **適合對象：** 有養寵物的家庭、嬰兒車使用、不想每天噴防蚊液的懶人
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_MOSQ_03)
+👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/5fkEySfQfo)**](https://s.shopee.tw/REPLACE_LINK_MOSQ_03)
 
 ---
 

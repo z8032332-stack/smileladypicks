@@ -58,7 +58,7 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 辦公室上班族、不喜歡太花俏的人、甲片新手
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_01)
+👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/6VJLyQAmZs)**](https://s.shopee.tw/REPLACE_LINK_01)
 
 ---
 
@@ -75,7 +75,7 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 喜歡有設計感但不誇張、指甲偏短的人
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_02)
+👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/4LErOSRMES)**](https://s.shopee.tw/REPLACE_LINK_02)
 
 ---
 
@@ -92,7 +92,7 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 想嘗試不同風格、第一次買穿戴甲的新手
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_03)
+👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/4LErOSRMES)**](https://s.shopee.tw/REPLACE_LINK_03)
 
 ---
 
@@ -109,7 +109,7 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 喜歡簡約風格、工作場合有服裝規定的人
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_04)
+👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/4LErOSRMES)**](https://s.shopee.tw/REPLACE_LINK_04)
 
 ---
 
@@ -126,7 +126,7 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 喜歡素雅自然風、追求高質感的人
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_05)
+👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/4LErOSRMES)**](https://s.shopee.tw/REPLACE_LINK_05)
 
 ---
 
@@ -143,7 +143,7 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 有重要場合、喜歡閃亮風格、送禮備用
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_06)
+👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/9fGNkK04mG)**](https://s.shopee.tw/REPLACE_LINK_06)
 
 ---
 
@@ -160,7 +160,7 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 追韓系穿搭風格、喜歡換新設計的人
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_07)
+👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/4LErOSRMES)**](https://s.shopee.tw/REPLACE_LINK_07)
 
 ---
 
