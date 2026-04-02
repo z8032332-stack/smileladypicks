@@ -61,7 +61,7 @@ image: "/images/mask-guide-cover.jpg"
 
 **適合對象：** 日常通勤的大人、需要囤量的家庭
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_MASK_01)
+👉 [**[👉 蝦皮搜尋購買](https://shope.ee/search?keyword=3D立體口罩 成人)**](https://s.shopee.tw/REPLACE_LINK_MASK_01)
 
 ---
 
@@ -78,7 +78,7 @@ image: "/images/mask-guide-cover.jpg"
 
 **適合對象：** 戴眼鏡、長時間外出、追求舒適感
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_MASK_02)
+👉 [**[👉 蝦皮搜尋購買](https://shope.ee/search?keyword=4D韓版蝴蝶口罩)**](https://s.shopee.tw/REPLACE_LINK_MASK_02)
 
 ---
 
@@ -95,7 +95,7 @@ image: "/images/mask-guide-cover.jpg"
 
 **適合對象：** 醫療相關、免疫力較低者、人潮密集場所
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_MASK_03)
+👉 [**[👉 蝦皮搜尋購買](https://shope.ee/search?keyword=5D口罩 日系)**](https://s.shopee.tw/REPLACE_LINK_MASK_03)
 
 ---
 
@@ -112,7 +112,7 @@ image: "/images/mask-guide-cover.jpg"
 
 **適合對象：** 需要高防護的兒童、開學季、流感高峰期
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_MASK_04)
+👉 [**[👉 蝦皮搜尋購買](https://shope.ee/search?keyword=KN95兒童口罩)**](https://s.shopee.tw/REPLACE_LINK_MASK_04)
 
 ---
 
@@ -129,7 +129,7 @@ image: "/images/mask-guide-cover.jpg"
 
 **適合對象：** 幼稚園到國小兒童日常使用
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_MASK_05)
+👉 [**[👉 蝦皮搜尋購買](https://shopee.tw/search?keyword=口罩)**](https://s.shopee.tw/REPLACE_LINK_MASK_05)
 
 ---
 

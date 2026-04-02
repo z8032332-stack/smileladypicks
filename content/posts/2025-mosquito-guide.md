@@ -93,7 +93,7 @@ image: "/images/mosquito-guide-cover.jpg"
 
 **適合對象：** 家裡有積水死角、想從根源解決蚊子問題的人
 
-👉 [**蝦皮購買連結**](https://s.shopee.tw/REPLACE_LINK_MOSQ_04)
+👉 [**[👉 蝦皮搜尋購買](https://shopee.tw/search?keyword=口罩)**](https://s.shopee.tw/REPLACE_LINK_MOSQ_04)
 
 ---
 
