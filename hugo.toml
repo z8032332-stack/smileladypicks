@@ -3,21 +3,25 @@ languageCode = "zh-tw"
 title = "微笑小姐選好物"
 theme = "PaperMod"
 defaultContentLanguage = "zh-tw"
+enableEmoji = true
+
+# Google Analytics — 請填入你的 GA4 Measurement ID（格式：G-XXXXXXXXXX）
+# 步驟：analytics.google.com → 建立資源 → 取得 Measurement ID → 填入下方
+[services]
+  [services.googleAnalytics]
+    ID = "G-XXXXXXXXXX"
 
 [params]
-  description = "最用心的美妝保養選物指南，幫你省時省錢買對好物"
+  description = "微笑小姐選好物：蝦皮分潤副業實測、生活好物精選，幫你省時省錢買對好物"
   author = "微笑小姐"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-
-[params.homeInfoParams]
-  Title = "👋 歡迎來到微笑小姐選好物"
-  Content = "專為台灣女生打造的美妝保養選物指南"
-
-[[params.socialIcons]]
-  name = "youtube"
-  url = "https://youtube.com"
+  ShowShareButtons = false
+  ShowCodeCopyButtons = false
+  disableThemeToggle = false
+  defaultTheme = "auto"
+  keywords = ["蝦皮分潤", "聯盟行銷", "副業", "好物推薦", "生活選物", "微笑小姐"]
 
 [menu]
   [[menu.main]]
@@ -25,10 +29,27 @@ defaultContentLanguage = "zh-tw"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "美妝保養"
-    url = "/beauty/"
+    name = "關於我"
+    url = "/about/"
     weight = 2
   [[menu.main]]
-    name = "居家好物"
-    url = "/home/"
+    name = "副業攻略"
+    url = "/posts/"
     weight = 3
+  [[menu.main]]
+    name = "變美小物"
+    url = "/beauty/"
+    weight = 4
+  [[menu.main]]
+    name = "日常好物"
+    url = "/daily/"
+    weight = 5
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true   # 讓 markdown 內的 HTML 可以正常顯示

@@ -1,0 +1,82 @@
+{{- define "main" }}
+
+{{/* ══ HERO ══════════════════════════════════════════════ */}}
+<section class="sl-hero">
+  <div class="sl-hero-inner">
+    <h1 class="sl-hero-title">微笑小姐選好物</h1>
+    <p class="sl-hero-sub">挑好物是眼光，自動化是本事——讓副業變得更輕鬆、也更穩定</p>
+    <div class="sl-hero-btns">
+      <a href="/posts/shopee-30-days/" class="sl-btn sl-btn-primary">蝦皮分潤 30 天心得</a>
+      <a href="/beauty/" class="sl-btn sl-btn-secondary">直接看好物</a>
+    </div>
+    <p class="sl-hero-about"><a href="/about/">關於我：微笑小姐是誰 →</a></p>
+  </div>
+</section>
+
+{{/* ══ 副業入口 ════════════════════════════════════════════ */}}
+<section class="sl-section">
+  <div class="sl-section-hd">
+    <h2>🔥 蝦皮分潤副業實測</h2>
+    <p class="sl-section-desc">真實數據、真實過程，不美化的副業紀錄</p>
+  </div>
+  <div class="sl-card-list">
+    {{- $posts := where .Site.RegularPages "Section" "posts" -}}
+    {{- range $posts -}}
+    <a class="sl-card" href="{{ .Permalink }}">
+      <h3>{{ .Title }}</h3>
+      {{- if .Description }}<p>{{ .Description }}</p>{{- end }}
+    </a>
+    {{- end }}
+  </div>
+</section>
+
+{{/* ══ 選物 ════════════════════════════════════════════════ */}}
+<section class="sl-section sl-section-alt">
+  <div class="sl-section-hd">
+    <h2>🛍️ 選物（情境）</h2>
+  </div>
+  <div class="sl-cat-grid">
+    <a class="sl-cat" href="/home/sleep-goods/">
+      <span class="sl-cat-icon">😴</span>
+      <span>睡眠改善</span>
+    </a>
+    <a class="sl-cat" href="/beauty/hair-care/">
+      <span class="sl-cat-icon">💅</span>
+      <span>變美小物</span>
+    </a>
+    <a class="sl-cat" href="/daily/">
+      <span class="sl-cat-icon">🏠</span>
+      <span>提升生活感</span>
+    </a>
+    <a class="sl-cat" href="/daily/baby-shampoo/">
+      <span class="sl-cat-icon">😷</span>
+      <span>日常必備</span>
+    </a>
+  </div>
+
+  {{/* 選物文章卡片 */}}
+  <div class="sl-card-list sl-mt">
+    {{- $items := where .Site.RegularPages "Section" "beauty" -}}
+    {{- $items = $items | append (where .Site.RegularPages "Section" "home") -}}
+    {{- $items = $items | append (where .Site.RegularPages "Section" "daily") -}}
+    {{- range $items -}}
+    <a class="sl-card" href="{{ .Permalink }}">
+      <h3>{{ .Title }}</h3>
+      {{- if .Description }}<p>{{ .Description }}</p>{{- end }}
+    </a>
+    {{- end }}
+  </div>
+</section>
+
+{{/* ══ 輕教學 ══════════════════════════════════════════════ */}}
+<section class="sl-section">
+  <div class="sl-section-hd">
+    <h2>💡 我是怎麼做到的</h2>
+  </div>
+  <ul class="sl-tutorial-list">
+    <li><a href="/posts/shopee-automation/">→ 我怎麼做到半自動：從手動剪輯到每天 30 部影片</a></li>
+    <li><a href="/posts/shopee-is-it-for-you/">→ 我怎麼選商品：避開紅海，找到會持續出單的品類</a></li>
+  </ul>
+</section>
+
+{{- end }}

@@ -1,0 +1,151 @@
+/* ══════════════════════════════════════════
+   微笑小姐選好物 — 自訂樣式
+   ══════════════════════════════════════════ */
+
+/* ── Hero ──────────────────────────────── */
+.sl-hero {
+  padding: 72px 20px 56px;
+  text-align: center;
+  background: linear-gradient(135deg, #fff5f8 0%, #fff 100%);
+  border-bottom: 1px solid var(--border);
+}
+[data-theme="dark"] .sl-hero {
+  background: linear-gradient(135deg, #1e1013 0%, var(--entry) 100%);
+}
+.sl-hero-inner { max-width: 680px; margin: 0 auto; }
+.sl-hero-title {
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin: 0 0 12px;
+  line-height: 1.2;
+}
+.sl-hero-sub {
+  font-size: 1.05rem;
+  color: var(--secondary);
+  margin: 0 0 32px;
+  line-height: 1.7;
+}
+.sl-hero-btns { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+.sl-btn {
+  display: inline-block;
+  padding: 12px 28px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none !important;
+  transition: opacity .2s;
+}
+.sl-btn:hover { opacity: .85; }
+.sl-btn-primary  { background: #e91e8c; color: #fff !important; }
+.sl-btn-secondary {
+  background: transparent;
+  color: #e91e8c !important;
+  border: 2px solid #e91e8c;
+}
+.sl-hero-about { margin-top: 20px; font-size: .9rem; }
+.sl-hero-about a { color: var(--secondary); text-decoration: underline; }
+
+/* ── 通用 Section ───────────────────────── */
+.sl-section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 52px 20px;
+}
+.sl-section-alt {
+  background: var(--code-bg);
+  max-width: 100%;
+  padding: 52px 20px;
+}
+.sl-section-alt > * { max-width: 900px; margin-left: auto; margin-right: auto; }
+.sl-section-hd { margin-bottom: 28px; }
+.sl-section-hd h2 { font-size: 1.5rem; font-weight: 700; margin: 0 0 6px; }
+.sl-section-desc { color: var(--secondary); margin: 0; }
+.sl-mt { margin-top: 32px; }
+
+/* ── 文章卡片 ──────────────────────────── */
+.sl-card-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 16px;
+}
+.sl-card {
+  display: block;
+  padding: 20px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--entry);
+  text-decoration: none !important;
+  transition: box-shadow .2s, transform .2s;
+}
+.sl-card:hover { box-shadow: 0 4px 18px rgba(0,0,0,.08); transform: translateY(-2px); }
+.sl-card h3 { font-size: 1rem; font-weight: 600; margin: 0 0 8px; color: var(--primary); }
+.sl-card p  { font-size: .88rem; color: var(--secondary); margin: 0; line-height: 1.55; }
+
+/* ── 選物分類格 ─────────────────────────── */
+.sl-cat-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+@media (max-width: 600px) { .sl-cat-grid { grid-template-columns: repeat(2, 1fr); } }
+.sl-cat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 20px 12px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--entry);
+  text-decoration: none !important;
+  color: var(--primary) !important;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .2s;
+}
+.sl-cat:hover { background: #fff0f6; }
+[data-theme="dark"] .sl-cat:hover { background: #2a1520; }
+.sl-cat-icon { font-size: 2rem; }
+
+/* ── 輕教學清單 ─────────────────────────── */
+.sl-tutorial-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.sl-tutorial-list li a {
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 14px 20px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  display: block;
+  background: var(--entry);
+  text-decoration: none !important;
+  color: var(--primary) !important;
+  transition: background .2s;
+}
+.sl-tutorial-list li a:hover { background: #fff0f6; }
+[data-theme="dark"] .sl-tutorial-list li a:hover { background: #2a1520; }
+
+/* ── 文章內 TOC 索引 ─────────────────────── */
+.toc { border-left: 3px solid #e91e8c; padding-left: 14px; margin-bottom: 24px; }
+
+/* ── About 頁按鈕 ────────────────────────── */
+.about-btn {
+  display: inline-block;
+  margin: 6px 8px 6px 0;
+  padding: 10px 22px;
+  border-radius: 7px;
+  font-weight: 600;
+  font-size: .9rem;
+  background: #e91e8c;
+  color: #fff !important;
+  text-decoration: none !important;
+}
+.about-btn:hover { opacity: .85; }
