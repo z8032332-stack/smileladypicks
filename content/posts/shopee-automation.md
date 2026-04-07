@@ -85,4 +85,4 @@ draft: false
 👉 **你要不要開始**
 
 如果你不想從 0 亂試，可以直接從我整理好的這些商品開始：
-👉 https://smileladypicks.pages.dev/beauty/hair-care/
+👉 https://smileladypicks.com/beauty/hair-care/

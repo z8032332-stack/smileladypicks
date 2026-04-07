@@ -32,7 +32,7 @@ draft: false
 後來我發現，有些商品其實會一直被點、一直有人買。像我自己測下來，「睡眠改善類」的商品其實蠻穩的（這類東西大家真的會一直需要）。
 
 👉 我整理了一份我實際在測、也有出單的清單在這裡：
-https://smileladypicks.pages.dev/home/sleep-goods/
+https://smileladypicks.com/home/sleep-goods/
 
 ---
 
@@ -75,4 +75,4 @@ https://smileladypicks.pages.dev/home/sleep-goods/
 因為差別真的不在方法，而在「有沒有走到後面那段」。
 
 如果你只是想先看看有哪些商品比較容易開始，我有整理一份我自己在跑的清單：
-https://smileladypicks.pages.dev/beauty/eye-makeup/
+https://smileladypicks.com/beauty/eye-makeup/
