@@ -33,7 +33,7 @@
 {{/* ══ 選物 ════════════════════════════════════════════════ */}}
 <section class="sl-section sl-section-alt">
   <div class="sl-section-hd">
-    <h2>🛍️ 選物（情境）</h2>
+    <h2>微笑小姐帶你看好物</h2>
   </div>
   <div class="sl-cat-grid">
     <a class="sl-cat" href="/home/sleep-goods/">
@@ -60,9 +60,14 @@
     {{- $items = $items | append (where .Site.RegularPages "Section" "home") -}}
     {{- $items = $items | append (where .Site.RegularPages "Section" "daily") -}}
     {{- range $items -}}
-    <a class="sl-card" href="{{ .Permalink }}">
-      <h3>{{ .Title }}</h3>
-      {{- if .Description }}<p>{{ .Description }}</p>{{- end }}
+    <a class="sl-card sl-card-img" href="{{ .Permalink }}">
+      {{- with .Params.image -}}
+      <div class="sl-card-cover" style="background-image:url('{{ . }}')"></div>
+      {{- end }}
+      <div class="sl-card-body">
+        <h3>{{ .Title }}</h3>
+        {{- if .Description }}<p>{{ .Description }}</p>{{- end }}
+      </div>
     </a>
     {{- end }}
   </div>

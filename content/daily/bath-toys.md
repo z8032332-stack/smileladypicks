@@ -8,6 +8,7 @@ tags: ["親子", "兒童玩具", "浴室"]
 ShowToc: true
 TocOpen: false
 draft: false
+image: "/images/bath-toys-cover.jpg"
 ---
 
 很多爸媽都遇過這種狀況 👇

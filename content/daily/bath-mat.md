@@ -8,6 +8,7 @@ tags: ["親子", "浴室安全", "防滑墊"]
 ShowToc: true
 TocOpen: false
 draft: false
+image: "/images/bath-mat-cover.jpg"
 ---
 
 每天洗澡看似簡單，對很多爸媽來說其實是「小心翼翼」模式——尤其是浴室地板濕滑，一個不注意小孩就容易滑倒、跌坐哭鬧 😥

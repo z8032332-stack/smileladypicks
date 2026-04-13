@@ -1,8 +1,9 @@
 ---
+draft: true
 title: "穿戴式美甲推薦 2025：7款開箱比較，不傷指甲也能超美（新手必看）"
 date: 2025-04-01
 description: "整理2025年最熱賣穿戴式美甲款式，從絲絨、法式、冰透裸色到貓眼，含開箱影片＋選購懶人包，找到最適合你的那款！"
-categories: ["美甲美妝"]
+categories: ["變美小物"]
 tags: ["穿戴式美甲", "美甲推薦", "指甲片", "不傷指甲", "美甲懶人包", "蝦皮好物"]
 image: "/images/nail-guide-cover.jpg"
 ---
@@ -47,8 +48,6 @@ image: "/images/nail-guide-cover.jpg"
 
 ### 1. 絲絨穿戴甲 — 上班族首選，百搭不踩雷
 
-{{< video-placeholder title="絲絨穿戴甲開箱" bunny_id="REPLACE_BUNNY_ID_01" >}}
-
 最近超熱賣的絲絨質感甲片，最大亮點是**摸起來有天鵝絨觸感**，不像普通亮面甲片那麼反光，反而更顯精緻。白色款超顯白，穿任何顏色衣服都搭。
 
 **3 個亮點：**
@@ -58,13 +57,11 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 辦公室上班族、不喜歡太花俏的人、甲片新手
 
-👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/6VJLyQAmZs)**](https://s.shopee.tw/REPLACE_LINK_01)
+👉 [**👉 立即在蝦皮購買**](https://s.shopee.tw/6VJLyQAmZs)
 
 ---
 
 ### 2. 微笑線穿戴甲短款 — 有設計感又低調
-
-{{< video-placeholder title="微笑線穿戴甲開箱" bunny_id="REPLACE_BUNNY_ID_02" >}}
 
 「微笑線」就是法式甲的一種設計語言，指甲根部有一條微笑弧線，視覺上讓指甲看起來更修長。這款特別設計成**短款**，手指不長也能駕馭，還有加強固定設計讓它更不容易鬆動。
 
@@ -75,13 +72,11 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 喜歡有設計感但不誇張、指甲偏短的人
 
-👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/4LErOSRMES)**](https://s.shopee.tw/REPLACE_LINK_02)
+👉 [**👉 立即在蝦皮購買**](https://s.shopee.tw/4LErOSRMES)
 
 ---
 
 ### 3. 百款穿戴甲日常短款 — 款式最多，選到眼花
-
-{{< video-placeholder title="百款穿戴甲開箱" bunny_id="REPLACE_BUNNY_ID_03" >}}
 
 這款最大的特色是**款式選擇超過 100 種**，從素色到花紋到漸層都有，每次買都可以換不同風格。材質偏輕薄，戴起來比較不會有異物感，是很多人入坑穿戴甲的第一款。
 
@@ -92,13 +87,11 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 想嘗試不同風格、第一次買穿戴甲的新手
 
-👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/4LErOSRMES)**](https://s.shopee.tw/REPLACE_LINK_03)
+👉 [**👉 立即在蝦皮購買**](https://s.shopee.tw/4LErOSRMES)
 
 ---
 
 ### 4. 法式黑白線短款 — 簡約俐落，百搭神器
-
-{{< video-placeholder title="法式黑白線穿戴甲開箱" bunny_id="REPLACE_BUNNY_ID_04" >}}
 
 黑白配的法式設計，永遠不會過時。這款用線條做出層次感，不是全白的基礎法式，多了一點個性但不誇張。穿西裝、穿休閒都很搭，是很多人的常備款。
 
@@ -109,13 +102,11 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 喜歡簡約風格、工作場合有服裝規定的人
 
-👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/4LErOSRMES)**](https://s.shopee.tw/REPLACE_LINK_04)
+👉 [**👉 立即在蝦皮購買**](https://s.shopee.tw/4LErOSRMES)
 
 ---
 
 ### 5. 冰透裸色穿戴甲 — 素顏系的最愛
-
-{{< video-placeholder title="冰透裸色穿戴甲開箱" bunny_id="REPLACE_BUNNY_ID_05" >}}
 
 冰透感的甲片最近超流行，關鍵是那種**半透明的玻璃光感**，戴起來感覺像天生有光澤的指甲，不像假指甲反而更有質感。裸色系非常顯白，素顏拍照都好看。
 
@@ -126,13 +117,11 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 喜歡素雅自然風、追求高質感的人
 
-👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/4LErOSRMES)**](https://s.shopee.tw/REPLACE_LINK_05)
+👉 [**👉 立即在蝦皮購買**](https://s.shopee.tw/4LErOSRMES)
 
 ---
 
 ### 6. 手工穿戴甲（烏風格閃閃款）— 約會、拍照必備
-
-{{< video-placeholder title="烏風格閃閃穿戴甲開箱" bunny_id="REPLACE_BUNNY_ID_06" >}}
 
 這款是幾款裡面**最有視覺衝擊力**的，閃閃的甲面反光效果在室內就很奪目，戶外太陽光下更美。手工製作所以每款細節都很用心，適合約會、婚禮、特殊場合。
 
@@ -143,13 +132,11 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 有重要場合、喜歡閃亮風格、送禮備用
 
-👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/9fGNkK04mG)**](https://s.shopee.tw/REPLACE_LINK_06)
+👉 [**👉 立即在蝦皮購買**](https://s.shopee.tw/9fGNkK04mG)
 
 ---
 
 ### 7. 韓系法式穿戴甲 — 追韓系流行
-
-{{< video-placeholder title="韓系法式穿戴甲開箱" bunny_id="REPLACE_BUNNY_ID_07" >}}
 
 韓系穿戴甲最大特色是**冰透感＋輕薄**，比日系更強調透明度，法式部分的弧線也更細緻。跟 KPOP 風格很搭，現在台灣追韓劇穿搭的女生特別愛。
 
@@ -160,7 +147,7 @@ image: "/images/nail-guide-cover.jpg"
 
 **適合對象：** 追韓系穿搭風格、喜歡換新設計的人
 
-👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/4LErOSRMES)**](https://s.shopee.tw/REPLACE_LINK_07)
+👉 [**👉 立即在蝦皮購買**](https://s.shopee.tw/4LErOSRMES)
 
 ---
 

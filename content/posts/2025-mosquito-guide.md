@@ -1,8 +1,9 @@
 ---
+draft: true
 title: "驅蚊不求人！2025年4種驅蚊商品實測比較，嬰兒、寵物、戶外各選哪款"
 date: 2025-04-03
 description: "防蚊凝膠、電驅蚊器、中藥香包、昆蟲生長調節劑，4種驅蚊方式大比較，嬰兒、寵物都可用，台灣夏天必備清單。"
-categories: ["生活好物"]
+categories: ["日常必備"]
 tags: ["驅蚊推薦", "防蚊液", "電蚊燈", "天然防蚊", "嬰兒防蚊", "寵物防蚊", "蝦皮好物"]
 image: "/images/mosquito-guide-cover.jpg"
 ---
@@ -31,8 +32,6 @@ image: "/images/mosquito-guide-cover.jpg"
 
 ### 1. 天然植萃精油防蚊凝膠 — 出門塗抹首選
 
-{{< video-placeholder title="天然精油防蚊凝膠開箱" bunny_id="REPLACE_BUNNY_ID_MOSQ_01" >}}
-
 100g 大容量，成分是天然植物精油，沒有 DEET 化學成分，嬰兒和孕婦都可以使用（建議先做局部測試）。凝膠質地不油膩，塗上去很快吸收，戶外踏青、帶孩子去公園都很適合。買 3 送 1 的組合方案家裡備一組很划算。
 
 **3 個亮點：**
@@ -42,13 +41,11 @@ image: "/images/mosquito-guide-cover.jpg"
 
 **適合對象：** 有小孩的家庭、孕婦、戶外活動愛好者
 
-👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/1BHpcBOOTg)**](https://s.shopee.tw/REPLACE_LINK_MOSQ_01)
+👉 [**👉 立即在蝦皮購買**](https://s.shopee.tw/1BHpcBOOTg)
 
 ---
 
 ### 2. 超聲波電驅蚊器 — 室內長效驅蚊
-
-{{< video-placeholder title="超聲波電驅蚊器開箱" bunny_id="REPLACE_BUNNY_ID_MOSQ_02" >}}
 
 插電式超聲波驅蚊，不需要任何藥劑，沒有味道、沒有煙，對人和寵物完全無害。同時能驅蚊、驅蟑螂、驅蟲，插在房間角落 24 小時運作。這款還有多頻率模式，增加蚊蟲的適應難度。適合嬰兒房、寵物房、或是不想聞任何味道的臥室。
 
@@ -59,13 +56,11 @@ image: "/images/mosquito-guide-cover.jpg"
 
 **適合對象：** 有寵物或嬰兒的家庭、不想用藥劑的人、臥室長效使用
 
-👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/6AgVZnt4sa)**](https://s.shopee.tw/REPLACE_LINK_MOSQ_02)
+👉 [**👉 立即在蝦皮購買**](https://s.shopee.tw/6AgVZnt4sa)
 
 ---
 
 ### 3. 台灣中藥防蚊香包 — 隨身攜帶最方便
-
-{{< video-placeholder title="中藥防蚊香包開箱" bunny_id="REPLACE_BUNNY_ID_MOSQ_03" >}}
 
 台灣在地製作的中藥驅蚊香包，用艾草、薄荷等草本配方，聞起來是淡淡的中藥香，不刺鼻。可以掛在嬰兒車、書包、寵物窩旁邊，一包有效約 1–3 個月，比精油噴霧省很多麻煩。還能驅跳蚤，有養貓狗的家庭很適合。
 
@@ -76,13 +71,11 @@ image: "/images/mosquito-guide-cover.jpg"
 
 **適合對象：** 有養寵物的家庭、嬰兒車使用、不想每天噴防蚊液的懶人
 
-👉 [**[👉 立即在蝦皮購買](https://s.shopee.tw/5fkEySfQfo)**](https://s.shopee.tw/REPLACE_LINK_MOSQ_03)
+👉 [**👉 立即在蝦皮購買**](https://s.shopee.tw/5fkEySfQfo)
 
 ---
 
 ### 4. 昆蟲生長調節劑 — 從源頭斷絕蚊子繁殖
-
-{{< video-placeholder title="昆蟲生長調節劑開箱" bunny_id="REPLACE_BUNNY_ID_MOSQ_04" >}}
 
 這款的邏輯跟其他三款完全不同——它不是趕走蚊子，而是**讓蚊子幼蟲長不大**。放在廁所、浴室、排水孔、陽台積水處，幼蟲吸收成分後無法正常蛻變，直接在幼蟲階段死亡。對人和脊椎動物完全無害，只影響昆蟲。一包 10g 有效 30 天，大容量包裝超划算。
 
@@ -93,7 +86,7 @@ image: "/images/mosquito-guide-cover.jpg"
 
 **適合對象：** 家裡有積水死角、想從根源解決蚊子問題的人
 
-👉 [**[👉 蝦皮搜尋購買](https://shopee.tw/search?keyword=口罩)**](https://s.shopee.tw/REPLACE_LINK_MOSQ_04)
+👉 [**👉 在蝦皮購買**](https://s.shopee.tw/2BAsMfWn9d)
 
 ---
 
