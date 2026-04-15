@@ -10,12 +10,20 @@
   --sl-accent-light: #f7eff3;           /* 極淡玫瑰 hover 底色 */
   --sl-text:         #111111;
   --sl-muted:        #888888;
-  --sl-border:       #e8e8e8;
-  --sl-bg-alt:       #f7f7f7;           /* section 交替淺灰 */
+  --sl-border:       #ebebeb;
+  --sl-bg-alt:       #fafafa;           /* 極輕暖白，取代灰色 */
   --sl-radius:       12px;
-  --sl-shadow-sm:    0 1px 6px rgba(0,0,0,.06);
-  --sl-shadow-md:    0 4px 20px rgba(0,0,0,.09);
-  --sl-shadow-lg:    0 8px 28px rgba(0,0,0,.13);
+  --sl-shadow-sm:    0 1px 6px rgba(0,0,0,.05);
+  --sl-shadow-md:    0 4px 20px rgba(0,0,0,.08);
+  --sl-shadow-lg:    0 8px 28px rgba(0,0,0,.11);
+}
+
+/* ── 全站背景改成純白 ── */
+body {
+  background: #ffffff !important;
+}
+.main, #main {
+  background: #ffffff !important;
 }
 
 /* ─────────────────────────────────────────
@@ -26,10 +34,28 @@
   text-align: center;
   background: #ffffff;
   border-bottom: 1px solid var(--sl-border);
+  position: relative;
 }
 [data-theme="dark"] .sl-hero {
   background: var(--entry);
   border-bottom: 1px solid var(--border);
+}
+
+/* ── Banner 版 Hero ── */
+.sl-hero-banner {
+  background: url('/images/banner.jpg') center center / cover no-repeat;
+  border-bottom: none;
+  padding: 110px 24px 90px;
+}
+.sl-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(255,255,255,0.72);
+  backdrop-filter: blur(1px);
+}
+.sl-hero-banner .sl-hero-inner {
+  position: relative;
+  z-index: 1;
 }
 
 .sl-hero-inner { max-width: 600px; margin: 0 auto; }
