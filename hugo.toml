@@ -33,10 +33,6 @@ enableEmoji = true
     url = "/about/"
     weight = 2
   [[menu.main]]
-    name = "副業攻略"
-    url = "/posts/"
-    weight = 3
-  [[menu.main]]
     name = "變美小物"
     url = "/beauty/"
     weight = 4
