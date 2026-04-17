@@ -8,7 +8,7 @@ tags: ["眼妝", "彩妝", "好物推薦"]
 ShowToc: true
 TocOpen: false
 draft: false
-image: "/images/eye-makeup-cover.jpg"
+image: "/images/eye-makeup.jpg"
 ---
 
 嗨，我是微笑小姐 💅

@@ -5,7 +5,7 @@ draft: false
 categories: ["居家好物"]
 tags: ["藍牙耳機", "無線耳機", "降噪", "推薦", "開箱"]
 description: "2025年熱銷藍牙耳機3款完整比較：降噪款、可愛造型款、不入耳骨傳導款，依你的需求找到最合適的。"
-image: "/images/earphone-cover.jpg"
+image: "/images/earphone.jpg"
 ---
 
 有線耳機的線一直打結，用了一次就煩死了。現在藍牙耳機百百款，但到底要選降噪款還是可愛款？入耳還是不入耳？

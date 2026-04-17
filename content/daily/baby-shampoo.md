@@ -8,7 +8,7 @@ tags: ["親子", "兒童用品", "洗髮精"]
 ShowToc: true
 TocOpen: false
 draft: false
-image: "/images/baby-cover.jpg"
+image: "/images/kids-shampoo.jpg"
 ---
 
 洗頭對很多爸爸媽媽來說，根本就是每天的小戰役 😂

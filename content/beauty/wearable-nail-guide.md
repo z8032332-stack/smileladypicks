@@ -4,7 +4,7 @@ date: 2025-04-01
 description: "整理2025年最熱賣穿戴式美甲款式，從絲絨、法式、冰透裸色到貓眼，含開箱影片＋選購懶人包，找到最適合你的那款！"
 categories: ["變美小物"]
 tags: ["穿戴式美甲", "美甲推薦", "指甲片", "不傷指甲", "美甲懶人包", "蝦皮好物"]
-image: "/images/nail-guide-cover.jpg"
+image: "/images/nail-wearable.jpg"
 ---
 
 每次去美甲店，最少花幾百元，還要等好久才能回家——光是怕弄壞就超焦慮。

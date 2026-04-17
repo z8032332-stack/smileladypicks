@@ -8,7 +8,7 @@ tags: ["睡眠", "助眠", "好物推薦"]
 ShowToc: true
 TocOpen: false
 draft: false
-image: "/images/sleep-cover.jpg"
+image: "/images/sleep.jpg"
 ---
 
 嗨，我是微笑小姐 😴

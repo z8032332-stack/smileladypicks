@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>彩妝 on 微笑小姐選好物</title><link>https://smileladypicks.com/tags/%E5%BD%A9%E5%A6%9D/</link><description>Recent content in 彩妝 on 微笑小姐選好物</description><generator>Hugo</generator><language>zh-tw</language><lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://smileladypicks.com/tags/%E5%BD%A9%E5%A6%9D/index.xml" rel="self" type="application/rss+xml"/><item><title>眼部彩妝推薦：讓眼神更有電力的精選好物</title><link>https://smileladypicks.com/beauty/eye-makeup/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://smileladypicks.com/beauty/eye-makeup/</guid><description>微笑小姐精選眼部彩妝好物，眼線筆、眼影盤、睫毛膏，找到最適合你的電眼組合。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>彩妝 on 微笑小姐選好物</title>
+    <link>http://localhost:1313/tags/%E5%BD%A9%E5%A6%9D/</link>
+    <description>Recent content in 彩妝 on 微笑小姐選好物</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%BD%A9%E5%A6%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>眼部彩妝推薦：讓眼神更有電力的精選好物</title>
+      <link>http://localhost:1313/beauty/eye-makeup/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/beauty/eye-makeup/</guid>
+      <description>微笑小姐精選眼部彩妝好物，眼線筆、眼影盤、睫毛膏，找到最適合你的電眼組合。</description>
+    </item>
+  </channel>
+</rss>

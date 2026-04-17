@@ -5,7 +5,7 @@ draft: false
 categories: ["居家好物"]
 tags: ["除螨機", "管道疏通", "吸塵器", "居家清潔", "推薦"]
 description: "2025年最實用居家清潔神器4款比較：除螨機、管道疏通粉、手持吸塵器、吹塵槍，讓家裡打掃更省力。"
-image: "/images/cleaning-cover.jpg"
+image: "/images/cleaning.jpg"
 ---
 
 打掃最煩的不是擦地，是那些「看不見的髒」——床上的塵蟎、水管的毛髮阻塞、縫隙裡吸不到的灰塵。

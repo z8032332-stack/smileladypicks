@@ -8,7 +8,7 @@ tags: ["護髮", "洗髮精", "好物推薦"]
 ShowToc: true
 TocOpen: false
 draft: false
-image: "/images/hair-care-cover.jpg"
+image: "/images/hair-care.jpg"
 ---
 
 嗨，我是微笑小姐 💅
