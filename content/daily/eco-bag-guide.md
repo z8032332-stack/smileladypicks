@@ -38,7 +38,7 @@ image: "/images/eco-bag.jpg"
 
 **適合：** 文青風格、送禮、日常通勤包
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_146)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/4LFg9EsIuR)
 
 ---
 
@@ -53,7 +53,7 @@ image: "/images/eco-bag.jpg"
 
 **適合：** 隨身備用、出差旅行、突然需要裝東西
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_148)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/4qBwk9qOtY)
 
 ---
 
@@ -68,7 +68,7 @@ image: "/images/eco-bag.jpg"
 
 **適合：** 菜市場超市買菜、企業送禮、批量使用
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_151)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/9fHCVCptIC)
 
 ---
 
@@ -83,7 +83,7 @@ image: "/images/eco-bag.jpg"
 
 **適合：** 大量購物、防水需求、日常外出
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_152)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/9pachVpFxF)
 
 ---
 
@@ -98,7 +98,7 @@ image: "/images/eco-bag.jpg"
 
 **適合：** 生日禮物、聖誕禮物、伴手禮包裝
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_226)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/6L0kXXitL8)
 
 ---
 

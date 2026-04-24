@@ -39,7 +39,7 @@ image: "/images/storage-box.jpg"
 
 **適合：** 桌面收納、客廳雜物、小孩房
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_168)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/6px185Mib1)
 
 ---
 
@@ -54,7 +54,7 @@ image: "/images/storage-box.jpg"
 
 **適合：** 衣物收納、玩具整理、任何需要看得見的地方
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_171)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/6L0kXAOcbw)
 
 ---
 
@@ -69,7 +69,7 @@ image: "/images/storage-box.jpg"
 
 **適合：** 衣服整理、衣櫃收納、內衣小物
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_172)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/gMNmrtKQL)
 
 ---
 
@@ -84,7 +84,7 @@ image: "/images/storage-box.jpg"
 
 **適合：** 換季棉被收納、冬衣存放、有大型物品要收的人
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_173)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/1BIeNmrQPS)
 
 ---
 
@@ -99,7 +99,7 @@ image: "/images/storage-box.jpg"
 
 **適合：** 化妝台整理、桌面文具、藥品分類
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_175)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/10zEBTs3kR)
 
 ---
 
@@ -114,7 +114,7 @@ image: "/images/storage-box.jpg"
 
 **適合：** 廚房收納、桌面整理、雜物分類
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_266)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/6VKAjqiG0B)
 
 ---
 

@@ -39,7 +39,7 @@ image: "/images/kitchen-fresh.jpg"
 
 **適合：** 青蔥香草保存、蔬菜分裝冷凍、廚房整理
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_286)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/9KeM77reCG)
 
 ---
 
@@ -54,7 +54,7 @@ image: "/images/kitchen-fresh.jpg"
 
 **適合：** 冰箱收納、乾貨零食保存、廚房美化
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_298)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/9paci2pkBP)
 
 ---
 
@@ -69,7 +69,7 @@ image: "/images/kitchen-fresh.jpg"
 
 **適合：** 大量購蛋收納、外出攜帶雞蛋、冰箱整理
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_297)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/9fHCVjqNWM)
 
 ---
 
@@ -84,7 +84,7 @@ image: "/images/kitchen-fresh.jpg"
 
 **適合：** 自製烘焙、甜點送禮、下午茶甜點保存
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_290)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/9UxmJQr0rJ)
 
 ---
 

@@ -36,7 +36,7 @@ image: "/images/dog-snack.jpg"
 
 **適合：** 有食物過敏、挑剔口味的狗狗、愛啃咬的中大型犬
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_163)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/70GRKOM5G0)
 
 ---
 
@@ -51,7 +51,7 @@ image: "/images/dog-snack.jpg"
 
 **適合：** 腸胃敏感、正在換零食試吃、喜歡天然食材的主人
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_164)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/7AZrWhLRv3)
 
 ---
 
@@ -66,7 +66,7 @@ image: "/images/dog-snack.jpg"
 
 **適合：** 正在訓練的狗狗、小型犬、新手毛主人
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_165)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/6fdavmNLvy)
 
 ---
 

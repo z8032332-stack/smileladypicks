@@ -38,7 +38,7 @@ image: "/images/screen-protector.jpg"
 
 **適合：** iPhone 用戶，想要進階功能保護貼
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_205)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/4LFg9mIdjn)
 
 ---
 
@@ -53,7 +53,7 @@ image: "/images/screen-protector.jpg"
 
 **適合：** 常在公共場所使用手機、重視隱私的人
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_207)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/4qBwkhGjiu)
 
 ---
 
@@ -68,7 +68,7 @@ image: "/images/screen-protector.jpg"
 
 **適合：** 三星 Galaxy A 系列用戶
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_209)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/4fsWYOHN3t)
 
 ---
 
@@ -83,7 +83,7 @@ iPhone 12 到 17 全系列，防窺功能側面完全看不到，走在路上被
 
 **適合：** 通勤上班族、常在公共場所查看私密訊息
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_217)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/5Aon9JFT30)
 
 ---
 
@@ -98,7 +98,7 @@ iPhone 12 到 17 全系列，防窺功能側面完全看不到，走在路上被
 
 **適合：** 長時間看螢幕、睡前使用手機、眼睛容易乾澀的人
 
-👉 [**立即在蝦皮查看**](REPLACE_LINK_218)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/60Nu8vkA12)
 
 ---
 
