@@ -39,7 +39,7 @@ image: "/images/kitchen-fresh.jpg"
 
 **適合：** 青蔥香草保存、蔬菜分裝冷凍、廚房整理
 
-👉 [**立即在蝦皮查看**](https://s.shopee.tw/9KeM77reCG)
+👉 [**立即在蝦皮查看**](https://s.shopee.tw/5L8DLhmhMy)
 
 ---
 
@@ -54,7 +54,7 @@ image: "/images/kitchen-fresh.jpg"
 
 **適合：** 冰箱收納、乾貨零食保存、廚房美化
 
-👉 [**立即在蝦皮查看**](https://s.shopee.tw/9paci2pkBP)
+👉 [**立即在蝦皮查看**](https://shopee.tw/universal-link/product/16033813/29860291043?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWVhMZzdTell2SnpNZW9oQ2lqK3VHRUtYSUpiR3R0dUJGRkRSdVhNQWhYdnlyV0k2Ym9HMWd2NEViNjBFYUR0TXhoMExDekpYY25qZ3JxNmZDVzgvaUJaNXhYa2NRM2pVQjJQcFh4ZUt5bzBDWE9mQ0gvWkhiT1FQTGNHaU1XSll3PT0&utm_campaign=-&utm_content=----&utm_medium=affiliates&utm_source=an_16382890024)
 
 ---
 
@@ -69,7 +69,7 @@ image: "/images/kitchen-fresh.jpg"
 
 **適合：** 大量購蛋收納、外出攜帶雞蛋、冰箱整理
 
-👉 [**立即在蝦皮查看**](https://s.shopee.tw/9fHCVjqNWM)
+👉 [**立即在蝦皮查看**](https://shopee.tw/universal-link/product/16033813/29860291043?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWVhMZzdTell2SnpNZW9oQ2lqK3VHRUtYSUpiR3R0dUJGRkRSdVhNQWhYdnlyV0k2Ym9HMWd2NEViNjBFYUR0TXhoMExDekpYY25qZ3JxNmZDVzgvaUJaNXhYa2NRM2pVQjJQcFh4ZUt5bzBDWE9mQ0gvWkhiT1FQTGNHaU1XSll3PT0&utm_campaign=-&utm_content=----&utm_medium=affiliates&utm_source=an_16382890024)
 
 ---
 
@@ -84,7 +84,7 @@ image: "/images/kitchen-fresh.jpg"
 
 **適合：** 自製烘焙、甜點送禮、下午茶甜點保存
 
-👉 [**立即在蝦皮查看**](https://s.shopee.tw/9UxmJQr0rJ)
+👉 [**立即在蝦皮查看**](https://shopee.tw/universal-link/product/12142362/28459187577?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWVhMZzdTell2SnpNZW9oQ2lqK3VHRnluRjVzUkJUOTE5YTVqUkhMRmRkWTFZUDYraStuMUJGZzlOVCtPT3dpVElMQk5paVQ5dHJyYkc4c0JVWjV6eGoxclI3VXU2TWxNdG5DMnBHL2tHL29sZHA1bStPMnVUMTJlSDIvalIybmFRPT0&utm_campaign=-&utm_content=----&utm_medium=affiliates&utm_source=an_16382890024)
 
 ---
 
